@@ -17,12 +17,6 @@ No full re-copy, no drama — just *new/changed* files synced quickly. Perfect f
 
 ---
 
-## ✨ Demo
-> _Add a short screen capture (10–20s) running the script in Terminal or double-clicking a shortcut._  
-> Example filename: `assets/demo.gif`
-
----
-
 ## 📁 Installation
 
 1. **Download** or clone this repo.
